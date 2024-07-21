@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Python, ML/DL
 - 📫 How to reach me: https://t.me/Eldar_Siuhov
-- ⚡ Fun fact: ...
 
 <!--
 **eldarsiukhov/eldarsiukhov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
